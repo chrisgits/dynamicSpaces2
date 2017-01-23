@@ -164,7 +164,7 @@ body  {
   background-image: url('../assets/main-2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: calc(100vw/2.1);
+  min-height: calc(100vw/1.2);
 }
 
 .photobg span {
