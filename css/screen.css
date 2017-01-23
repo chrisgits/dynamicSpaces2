@@ -159,10 +159,12 @@ body  {
 /* top photo */
 .photobg {
   display: block;
+  width: 100vw;
   background-color: #606060;
   background-image: url('../assets/main-2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  min-height: calc(100vw/2.1);
 }
 
 .photobg span {
