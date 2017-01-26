@@ -55,22 +55,6 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/assets\/fbCover-1.jpg": {
-		"ft": 16384,
-		"iS": 275002,
-		"oA": 0,
-		"oAP": "\/assets\/fbCover-1.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/assets\/fbCover-2.jpg": {
-		"ft": 16384,
-		"iS": 76271,
-		"oA": 0,
-		"oAP": "\/assets\/fbCover-2.jpg",
-		"oF": 0,
-		"opt": 1
-		},
 	"\/assets\/logo_lt@2x.png": {
 		"ft": 32768,
 		"iS": 11194,
@@ -87,11 +71,11 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/assets\/main-2.jpg": {
+	"\/assets\/main-1.jpg": {
 		"ft": 16384,
 		"iS": 135612,
 		"oA": 0,
-		"oAP": "\/assets\/main-2.jpg",
+		"oAP": "\/assets\/main-1.jpg",
 		"oF": 0,
 		"opt": 1
 		},
@@ -100,14 +84,6 @@
 		"iS": 160279,
 		"oA": 0,
 		"oAP": "\/assets\/main-mbl.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/assets\/main_1.jpg": {
-		"ft": 16384,
-		"iS": 1765910,
-		"oA": 0,
-		"oAP": "\/assets\/main_1.jpg",
 		"oF": 0,
 		"opt": 1
 		},
@@ -121,27 +97,11 @@
 		},
 	"\/assets\/marySite-2.jpg": {
 		"ft": 16384,
-		"iS": 209973,
+		"iS": 117852,
 		"oA": 0,
 		"oAP": "\/assets\/marySite-2.jpg",
 		"oF": 0,
-		"opt": 1
-		},
-	"\/assets\/marySite-3.jpg": {
-		"ft": 16384,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/assets\/marySite-3.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/assets\/marySite-4.jpg": {
-		"ft": 16384,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/assets\/marySite-4.jpg",
-		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/assets\/orig\/0JiQCG.psd": {
 		"ft": 8192,
@@ -261,6 +221,14 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/assets\/slider\/fullimage-13.jpg": {
+		"ft": 16384,
+		"iS": 120926,
+		"oA": 0,
+		"oAP": "\/assets\/slider\/fullimage-13.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/assets\/slider\/fullimage-2.jpg": {
 		"ft": 16384,
 		"iS": 567095,
@@ -335,27 +303,27 @@
 		},
 	"\/assets\/vertimg\/vertimg-1.jpg": {
 		"ft": 16384,
-		"iS": 468674,
+		"iS": 71804,
 		"oA": 0,
 		"oAP": "\/assets\/vertimg\/vertimg-1.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/assets\/vertimg\/vertimg-2.jpg": {
 		"ft": 16384,
-		"iS": 438169,
+		"iS": 69059,
 		"oA": 0,
 		"oAP": "\/assets\/vertimg\/vertimg-2.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/assets\/vertimg\/vertimg-3.jpg": {
 		"ft": 16384,
-		"iS": 501143,
+		"iS": 89194,
 		"oA": 0,
 		"oAP": "\/assets\/vertimg\/vertimg-3.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/build\/.gitignore": {
 		"ft": 8192,

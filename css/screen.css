@@ -140,7 +140,7 @@ body {
 /* ============ */
 /* first row after nav */
 .container-fluid .row:first-child {
-  margin-top: 4em; }
+  margin-top: 0em; }
 
 /* ============ */
 /* top photo */
@@ -148,9 +148,10 @@ body {
   display: block;
   width: 100%;
   background-color: #606060;
-  background-image: url("../assets/main-2.jpg");
+  background-image: url("../assets/main-1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 3em;
   min-height: calc(100vw/1.5); }
 
 .photobg span {
@@ -382,7 +383,7 @@ footer {
   /*min-height: 300px;*/ }
 
 .ft-content:first-child span > img {
-  width: 10em;
+  width: 75%;
   margin-top: 2em;
   border: 5px solid white; }
 

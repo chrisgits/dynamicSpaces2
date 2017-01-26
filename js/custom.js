@@ -2,7 +2,7 @@
 $(document).ready(function() {
   //owl carousel
   $('#owl-slider').owlCarousel({
-    navigation: false, //show nxt and previous
+    navigation: true, //show nxt and previous
     slideSpeed: 300,
     paginationSpeed: 400,
     singleItem: true,
